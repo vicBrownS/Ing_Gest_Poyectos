@@ -4,7 +4,11 @@ Repositorio para gestionar el aprendizaje de los conceptos de la asignatura de I
 
 Utilizaremos este repositorio como plantilla para realizar la primera actividad de evaluación continua de la asignatura. <b>El peso de esta actividad es de un 15% sobre el total</b>. Se evaluará la participación equitativa de todos los miembros del equipo, pudiendose solicitar una defensa de la actividad el día de la entrega. 
 
-<b>Fecha de entrega:</b> 09/04/2021 en clase de teoría
+<b>Fecha de entrega:</br> 
+
+La presentación será el  martes 11/04/2023 en clase de práctica </br>
+
+La presentación será el  viernes 14/04/2023 en clase de práctica </br>
 
 <h2>Procedimiento</h2>
 1. Hacer grupos de 4-6 personas<br></br>
