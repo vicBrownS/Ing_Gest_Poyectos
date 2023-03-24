@@ -14,7 +14,7 @@ La presentación será el  viernes 14/04/2023 en clase de práctica </br>
 1. Hacer grupos de 4-6 personas<br></br>
 2. Disponer todos los miembros del equipo de una cuenta en GitHub (usad el nombre de usuario del correo de la UBU)<br></br>
 3. Crear un fork de este proyecto en GitHub donde estén registrados todos los miembros del grupo<br></br>
-4. Leer las páginas del libro <a href="https://www.scrummanager.net/bok/index.php?title=Scrum_Manager_BoK">Libro Scrum Master</a> marcadas cada semana e ir rellenando en la WIKI del proyecto la información solicitada según la plantilla Capitulo_xx
+4. Leer las páginas del libro <a href="https://www.scrummanager.net/bok/index.php?title=Scrum_Manager_BoK">Libro Scrum Master</a> marcadas cada semana e ir rellenando en la WIKI del proyecto la información solicitada según la plantilla Capitulo_xx . En CAPITULO 03 se muestra como crear secciones, subseciones y apartados. 
 
 <h2>Documentación</h2>
 <a href="https://www.scrummanager.net/bok/index.php?title=Scrum_Manager_BoK">Libro Scrum Master</a>
