@@ -7,7 +7,7 @@ Utilizaremos este repositorio como plantilla para realizar la primera actividad 
 <b>Fecha de entrega:</b> 09/04/2021 en clase de teoría
 
 <h2>Procedimiento</h2>
-1. Hacer grupos de 7-8 personas<br></br>
+1. Hacer grupos de 4-6 personas<br></br>
 2. Disponer todos los miembros del equipo de una cuenta en GitHub (usad el nombre de usuario del correo de la UBU)<br></br>
 3. Crear un fork de este proyecto en GitHub donde estén registrados todos los miembros del grupo<br></br>
 4. Leer las páginas del libro <a href="https://www.scrummanager.net/bok/index.php?title=Scrum_Manager_BoK">Libro Scrum Master</a> marcadas cada semana e ir rellenando en la WIKI del proyecto la información solicitada según la plantilla
